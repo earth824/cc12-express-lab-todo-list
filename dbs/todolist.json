@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "Concert",
+    "completed": false,
+    "dueDate": "2022-08-12",
+    "id": "d394b13f-47d6-45e7-a6f0-a8d2d3880838"
+  },
+  {
+    "title": "Golf",
+    "completed": false,
+    "dueDate": "2022-08-25",
+    "id": "6738a432-903d-41ee-96c5-bf1b6a3233df"
+  },
+  {
+    "title": "Meeting",
+    "completed": false,
+    "dueDate": "2022-08-21",
+    "id": "817931fa-5396-498b-9a88-26e17562f3bb"
+  },
+  {
+    "title": "Lunch",
+    "completed": true,
+    "dueDate": "2022-08-31",
+    "id": "feeabe75-5536-49a2-aa64-92f8c6bf9bb7"
+  }
+]
